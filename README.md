@@ -1,4 +1,4 @@
-本文演示了QT与HTML交互的DEMO，使用的技术主要包括Webengine，Webchannel，Websocket。
+
 
 
 <!---
